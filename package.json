@@ -64,7 +64,7 @@
     "react": "18.0.0-alpha-64931821a-20210808",
     "react-dom": "18.0.0-alpha-64931821a-20210808",
     "react-helmet-async": "^1.0.9",
-    "sharp": "^0.28.3",
+    "sharp": "^0.35.5",
     "worktop": "^0.6.3"
   },
   "devDependencies": {
